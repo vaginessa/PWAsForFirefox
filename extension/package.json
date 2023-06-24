@@ -36,7 +36,7 @@
     "bootstrap-icons": "^1.9.1",
     "bootstrap5-tags": "^1.4.38",
     "iframe-resizer": "^4.3.2",
-    "semver": "^7.3.7"
+    "semver": "^7.5.2"
   },
   "devDependencies": {
     "@parcel/config-webextension": "~2.4.1",
